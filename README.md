@@ -79,9 +79,14 @@ print("Final Bias (b):", b)
 
 <img width="602" height="581" alt="Screenshot 2026-01-30 143149" src="https://github.com/user-attachments/assets/b55dac67-bde8-44a6-a54e-b1322a66f7cf" />
 
+
+
 <img width="582" height="583" alt="Screenshot 2026-01-30 143202" src="https://github.com/user-attachments/assets/61b6d32d-ada6-4e0c-aeb8-496ae670b8d5" />
 
+
+
 <img width="393" height="50" alt="Screenshot 2026-01-30 143212" src="https://github.com/user-attachments/assets/df1b1027-c789-4ad0-ad28-ca771eb20f2b" />
+
 
 
 ## Result:
